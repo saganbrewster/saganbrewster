@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagan</h1>
-<h3 align="center">A student from the US</h3>
+<h3 align="center">A passionate tech student</h3>
 
 - 🔭 I’m currently working on **a FRC Scouting app**
 
