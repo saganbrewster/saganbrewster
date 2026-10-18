@@ -2,7 +2,7 @@
 
 ### A passionate tech student
 
-- 🔭 I'm currently working on **a FRC Scouting app **
+- 🔭 I'm currently working on **a FRC Scouting app**
 
 - 🌱 I'm currently learning **SwiftUi**
 
